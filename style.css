@@ -160,8 +160,8 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #000;
-  color: #fff;
+  background: #f8f8f6;
+  color: #e3eb00;
 }
 
 /* Portfolio styles */
@@ -200,8 +200,8 @@ nav h1 {
 }
 
 #portfolio a:hover {
-  background: #000;
-  color: #fff;
+  background: #eeff00;
+  color: #030000;
   transform: translateX(4px);
 }
 
